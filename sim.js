@@ -114,6 +114,6 @@ function containerPolygon(x, y, sides, radius, options) {
   }
 
 function newBall(){
-
+    code=code;
 }
 
